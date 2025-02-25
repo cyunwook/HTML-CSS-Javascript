@@ -69,3 +69,8 @@ body{
 
 
 폴더에 main.js파일을 추가하고, html파일과 연동한다. body마지막 부분에 <script src="main.js"></script>를 추가하면 된다.
+완성된 사진은 이렇다。
+커서가 깜빡이고、 계속 글씨를 제거하고 쓰여진다。
+
+<img width="525" alt="image" src="https://github.com/user-attachments/assets/58b9ae75-14ae-49e3-9da7-3cba42887db2" />
+
